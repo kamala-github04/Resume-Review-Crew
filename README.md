@@ -73,7 +73,7 @@ resume-review-crew/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/kamala-github04/Resume-Review-Crew.git
+git clone https://github.com/kamala-github04/Resume-Review-Crew.git 
 
 cd Resume-Review-Crew
 ```
