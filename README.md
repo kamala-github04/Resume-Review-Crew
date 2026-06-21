@@ -73,9 +73,9 @@ resume-review-crew/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/resume-review-crew.git
+git clone https://github.com/kamala-github04/Resume-Review-Crew.git
 
-cd resume-review-crew
+cd Resume-Review-Crew
 ```
 
 ### Create Virtual Environment
