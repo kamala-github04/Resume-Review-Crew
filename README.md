@@ -162,9 +162,9 @@ http://localhost:8501
 ## 📊 Sample Output
 
 ```text
-Overall Score : 8.2/10
-ATS Score     : 8.5/10
-Job Fit Score : 7.8/10
+Overall Score : 7.5/10
+ATS Score     : 7.5/10
+Job Fit Score : 6.5/10
 ```
 
 ---
